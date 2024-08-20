@@ -23,11 +23,13 @@ form{
 
 }
 
-form fieldset{
+form fieldset input{
     border: 1px solid #ddd;
     padding: 10px;
     margin-bottom: 20px;
+    width: 540px;
 }
+
 
 form label{
     display: block;
